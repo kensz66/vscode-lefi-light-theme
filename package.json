@@ -1,0 +1,37 @@
+{
+    "name": "theme-lefi-light",
+    "displayName": "theme lefi light",
+    "description": "A oranger and warm theme.",
+    "version": "0.0.1",
+    "publisher": "kensz66",
+    "engines": {
+        "vscode": "^1.39.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "longsight",
+        "lefi",
+        "theme",
+        "light",
+        "longsight light",
+        "data projector",
+        "oranger",
+        "warm theme"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "theme lefi light",
+                "uiTheme": "vs",
+                "path": "./themes/theme lefi light-color-theme.json"
+            }
+        ]
+    },
+    "homepage": "http://www.z-ai.net",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kensz66/vscode-lefi-light-theme"
+    }
+}

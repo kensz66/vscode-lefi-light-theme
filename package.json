@@ -2,7 +2,7 @@
     "name": "theme-lefi-light",
     "displayName": "theme lefi light",
     "description": "A orange and warm theme.",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "kensz66",
     "engines": {
         "vscode": "^1.39.0"
